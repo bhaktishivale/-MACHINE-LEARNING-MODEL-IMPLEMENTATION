@@ -99,3 +99,4 @@ Enable real-time spam detection with API deployment
 This project demonstrates a practical use case of machine learning and NLP in detecting spam messages. It provides an end-to-end pipeline from data preprocessing to model evaluation and highlights how data science can be applied to cybersecurity and communication systems. The repository serves as a solid foundation for students, developers, or researchers interested in building intelligent text classification systems.
 
 output:
+![Image](https://github.com/user-attachments/assets/0958b0ab-3a43-4379-a642-d81c8932ff3d)
